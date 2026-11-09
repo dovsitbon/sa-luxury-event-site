@@ -1,0 +1,60 @@
+{
+  "_note": "Vrais avis, recopiés fidèlement depuis la story à la une « Avis clients » (captures Mariages.net, messages et commentaires Instagram), relevés le 2026-11-09. Texte français d'origine ; anglais = traduction (signalée sur le site). date = date du mariage quand elle est indiquée, sinon null. Ajouter les prochains avis au même format, avec l'accord des mariés. Aucun avis n'est inventé.",
+  "reviews": [
+    {
+      "name": "Mawada",
+      "date": "2024-04-15",
+      "source": "Mariages.net",
+      "rating": 5,
+      "title": { "fr": "Wedding decoration", "en": "Wedding decoration" },
+      "text": {
+        "fr": "J’ai récemment eu le plaisir de travailler avec SA pour mon mariage, et je ne pourrais pas être plus heureuse des résultats. Du début à la fin, leur équipe a fait preuve d’un professionnalisme, d’une créativité et d’un souci du détail exceptionnels. Ils ont fait une décoration de 2 jours de mon mariage ! La consultation initiale a été approfondie et personnalisée. Ils ont pris le temps de comprendre notre vision, nos préférences et notre budget, et ont fourni des suggestions perspicaces qui ont vraiment amélioré nos idées. Le processus de planification s’est déroulé sans heurts, et ils nous ont tenus informés à chaque étape, s’assurant que nous étions à l’aise et confiants dans les plans. Je recommande vivement SA à tous ceux qui recherchent des décorations de mariage de premier ordre. Leur passion, leur créativité et leur dévouement sont vraiment inégalés. Merci d’avoir fait de mon mariage un rêve devenu réalité !",
+        "en": "I recently had the pleasure of working with SA for my wedding, and I couldn’t be happier with the result. From start to finish, their team showed exceptional professionalism, creativity and attention to detail. They decorated two days of my wedding! The first consultation was thorough and personal. They took the time to understand our vision, our preferences and our budget, and made thoughtful suggestions that really improved our ideas. Planning went smoothly and they kept us informed at every step, making sure we felt comfortable and confident. I warmly recommend SA to anyone looking for first-class wedding decoration. Their passion, creativity and dedication are truly unmatched. Thank you for making my wedding a dream come true!"
+      }
+    },
+    {
+      "name": "Kaouthar",
+      "date": "2024-08-30",
+      "source": "Mariages.net",
+      "rating": 5,
+      "title": { "fr": "Raffiné et élégant", "en": "Refined and elegant" },
+      "text": {
+        "fr": "Très belle expérience avec Sa Luxury events ! Nous avons eu la déco de nos rêves. Les invités ont été éblouis, les fleurs étaient magnifiques, le travail est soigné et raffiné. Sa Luxury events est non seulement à l’écoute mais est aussi impliqué et travaille avec passion et cela se voit dans le résultat de sa décoration. Nous la recommandons vivement !",
+        "en": "A wonderful experience with Sa Luxury events! We had the decoration of our dreams. Our guests were dazzled, the flowers were beautiful, the work is careful and refined. Sa Luxury events not only listens but is truly involved and works with passion, and you can see it in the result. We highly recommend her!"
+      }
+    },
+    {
+      "name": "Mostapha & Ounayma",
+      "date": null,
+      "source": "Message",
+      "rating": null,
+      "title": null,
+      "text": {
+        "fr": "Merci énormément, c’était magnifique, j’ai eu que des bons retours, je vous recommande à 100 %. Traiteur excellent.",
+        "en": "Thank you so much, it was beautiful, I only had good feedback, I recommend you 100%. Excellent catering."
+      }
+    },
+    {
+      "name": "Hyness",
+      "date": "2025-09",
+      "source": "Instagram",
+      "rating": null,
+      "title": null,
+      "text": {
+        "fr": "Merci pour votre travail exceptionnel.",
+        "en": "Thank you for your exceptional work."
+      }
+    },
+    {
+      "name": null,
+      "date": null,
+      "source": "Message",
+      "rating": null,
+      "title": null,
+      "text": {
+        "fr": "Je voulais vous remercier pour votre travail et votre gentillesse. C’était parfait, tout était parfait, très pro, et on sent en vous une confiance de dingue. Merci, merci pour tout, je suis trop contente. Magnifique boulot et investissement de votre part. Et vous êtes trop attachante.",
+        "en": "I wanted to thank you for your work and your kindness. It was perfect, everything was perfect, very professional, and you radiate such confidence. Thank you, thank you for everything, I’m so happy. Beautiful work and real commitment on your part. And you’re so endearing."
+      }
+    }
+  ]
+}

@@ -1,0 +1,358 @@
+{
+ "_note": "Réalisations, d’après ses publications Instagram (date = mois de la publication, à corriger avec la date réelle de l’événement). place = lieu ou salle (null = à remplir, non affiché) ; guests = nombre d’invités (null = à remplir, non affiché). Prénoms des mariés tels qu’elle les a publiés. Filtre par année = les 4 premiers caractères de date.",
+ "updated": "2026-11-09",
+ "items": [
+  {
+   "id": "salle-arches-01-2026-10",
+   "date": "2026-10",
+   "kind": "mariage",
+   "image": "/media/galerie/salle-arches-01.jpg",
+   "place": null,
+   "guests": null,
+   "title": {
+    "fr": "Salle aux arches, lustres de cristal",
+    "en": "Arched hall and crystal chandeliers"
+   },
+   "ambiance": {
+    "fr": "Blanc, vert tendre et cristal",
+    "en": "White, soft green and crystal"
+   }
+  },
+  {
+   "id": "centre-orange-01-2026-08",
+   "date": "2026-08",
+   "kind": "mariage",
+   "image": "/media/centres-table/centre-orange-01.jpg",
+   "place": null,
+   "guests": null,
+   "title": {
+    "fr": "Mariage en plein air",
+    "en": "Open-air wedding"
+   },
+   "ambiance": {
+    "fr": "Orange solaire et blanc",
+    "en": "Sun-bright orange and white"
+   }
+  },
+  {
+   "id": "centre-pivoines-01-2026-07",
+   "date": "2026-07",
+   "kind": "mariage",
+   "image": "/media/centres-table/centre-pivoines-01.jpg",
+   "place": "Villa Pamilya",
+   "guests": null,
+   "title": {
+    "fr": "Une mariée qui sait ce qu’elle veut",
+    "en": "A bride who knows what she wants"
+   },
+   "ambiance": {
+    "fr": "Pivoines, rose poudré et or",
+    "en": "Peonies, dusty pink and gold"
+   }
+  },
+  {
+   "id": "trone-bordeaux-01-2026-03",
+   "date": "2026-03",
+   "kind": "mariage",
+   "image": "/media/coin-maries/trone-bordeaux-01.jpg",
+   "place": null,
+   "guests": null,
+   "title": {
+    "fr": "Le mariage de Dounia",
+    "en": "Dounia’s wedding"
+   },
+   "ambiance": {
+    "fr": "Glamour et chic : bordeaux, blanc et or",
+    "en": "Glamour and chic: burgundy, white and gold"
+   }
+  },
+  {
+   "id": "noir-et-blanc-03-2025-09",
+   "date": "2025-09",
+   "kind": "mariage",
+   "image": "/media/galerie/noir-et-blanc-03.jpg",
+   "place": "Jardin d’Hiver",
+   "guests": null,
+   "title": {
+    "fr": "Hyness & Alban",
+    "en": "Hyness & Alban"
+   },
+   "ambiance": {
+    "fr": "Verrière, blanc et verdure",
+    "en": "Glasshouse, white and greenery"
+   }
+  },
+  {
+   "id": "centre-pastel-01-2025-09",
+   "date": "2025-09",
+   "kind": "mariage",
+   "image": "/media/galerie/centre-pastel-01.jpg",
+   "place": null,
+   "guests": null,
+   "title": {
+    "fr": "Le mariage d’Elsa",
+    "en": "Elsa’s wedding"
+   },
+   "ambiance": {
+    "fr": "Pastels et fleurs des champs",
+    "en": "Pastels and wild flowers"
+   }
+  },
+  {
+   "id": "centre-gypsophile-01-2025-08",
+   "date": "2025-08",
+   "kind": "mariage",
+   "image": "/media/galerie/centre-gypsophile-01.jpg",
+   "place": null,
+   "guests": null,
+   "title": {
+    "fr": "Roses ivoire et gypsophile",
+    "en": "Ivory roses and baby’s breath"
+   },
+   "ambiance": {
+    "fr": "Blanc ivoire et cristal",
+    "en": "Ivory white and crystal"
+   }
+  },
+  {
+   "id": "noir-et-blanc-01-2025-06",
+   "date": "2025-06",
+   "kind": "mariage",
+   "image": "/media/galerie/noir-et-blanc-01.jpg",
+   "place": null,
+   "guests": null,
+   "title": {
+    "fr": "Noir et blanc",
+    "en": "Black and white"
+   },
+   "ambiance": {
+    "fr": "Sobre, élégant, intemporel",
+    "en": "Understated, elegant, timeless"
+   }
+  },
+  {
+   "id": "terrasse-arches-01-2025-05",
+   "date": "2025-05",
+   "kind": "fiancailles",
+   "image": "/media/galerie/terrasse-arches-01.jpg",
+   "place": null,
+   "guests": null,
+   "title": {
+    "fr": "Fiançailles de Yasmine & Sabri",
+    "en": "Yasmine & Sabri’s engagement"
+   },
+   "ambiance": {
+    "fr": "Blanc, cristal et verdure en terrasse",
+    "en": "White, crystal and greenery on a terrace"
+   }
+  },
+  {
+   "id": "salle-arches-02-2025-04",
+   "date": "2025-04",
+   "kind": "mariage",
+   "image": "/media/galerie/salle-arches-02.jpg",
+   "place": null,
+   "guests": null,
+   "title": {
+    "fr": "Un mariage de conte de fées",
+    "en": "A fairy-tale wedding"
+   },
+   "ambiance": {
+    "fr": "Fleurs fraîches, lumière tamisée, trône",
+    "en": "Fresh flowers, soft light, a throne"
+   }
+  },
+  {
+   "id": "centre-roses-01-2025-01",
+   "date": "2025-01",
+   "kind": "mariage",
+   "image": "/media/galerie/centre-roses-01.jpg",
+   "place": null,
+   "guests": null,
+   "title": {
+    "fr": "Katarina & Jessy",
+    "en": "Katarina & Jessy"
+   },
+   "ambiance": {
+    "fr": "Rose tendre et chandeliers de cristal",
+    "en": "Soft pink and crystal candelabras"
+   }
+  },
+  {
+   "id": "centre-pastel-01-2024-12",
+   "date": "2024-12",
+   "kind": "mariage",
+   "image": "/media/centres-table/centre-pastel-01.jpg",
+   "place": "La Grande Sieste",
+   "guests": null,
+   "title": {
+    "fr": "Le luxe est dans chaque détail",
+    "en": "Luxury lives in every detail"
+   },
+   "ambiance": {
+    "fr": "Pastels, cristal et dorures",
+    "en": "Pastels, crystal and gilding"
+   }
+  },
+  {
+   "id": "centre-bougies-01-2024-11",
+   "date": "2024-11",
+   "kind": "mariage",
+   "image": "/media/galerie/centre-bougies-01.jpg",
+   "place": null,
+   "guests": null,
+   "title": {
+    "fr": "Faryal & Samy",
+    "en": "Faryal & Samy"
+   },
+   "ambiance": {
+    "fr": "Trône royal, bougies et roses",
+    "en": "Royal throne, candles and roses"
+   }
+  },
+  {
+   "id": "noir-et-blanc-02-2024-11",
+   "date": "2024-11",
+   "kind": "mariage",
+   "image": "/media/galerie/noir-et-blanc-02.jpg",
+   "place": null,
+   "guests": null,
+   "title": {
+    "fr": "S & A",
+    "en": "S & A"
+   },
+   "ambiance": {
+    "fr": "Fleurs vives et argent",
+    "en": "Vivid flowers and silver"
+   }
+  },
+  {
+   "id": "salle-arches-03-2024-09",
+   "date": "2024-09",
+   "kind": "mariage",
+   "image": "/media/galerie/salle-arches-03.jpg",
+   "place": null,
+   "guests": null,
+   "title": {
+    "fr": "Douceur de rose",
+    "en": "A touch of pink"
+   },
+   "ambiance": {
+    "fr": "Rose et fuchsia, arches blanches",
+    "en": "Pink and fuchsia, white arches"
+   }
+  },
+  {
+   "id": "allee-ceremonie-01-2024-09",
+   "date": "2024-09",
+   "kind": "mariage",
+   "image": "/media/ceremonie/allee-ceremonie-01.jpg",
+   "place": null,
+   "guests": null,
+   "title": {
+    "fr": "Anabelle & Brayan",
+    "en": "Anabelle & Brayan"
+   },
+   "ambiance": {
+    "fr": "Cérémonie en blanc, rose pâle et box magazine",
+    "en": "White and blush ceremony with a magazine-cover booth"
+   }
+  },
+  {
+   "id": "centre-roses-02-2024-07",
+   "date": "2024-07",
+   "kind": "mariage",
+   "image": "/media/galerie/centre-roses-02.jpg",
+   "place": "Le Grand Cellier",
+   "guests": null,
+   "title": {
+    "fr": "Mawada & Naseem",
+    "en": "Mawada & Naseem"
+   },
+   "ambiance": {
+    "fr": "Deux jours de décoration",
+    "en": "Two days of decoration"
+   }
+  },
+  {
+   "id": "art-de-table-02-2024-05",
+   "date": "2024-05",
+   "kind": "mariage",
+   "image": "/media/galerie/art-de-table-02.jpg",
+   "place": null,
+   "guests": null,
+   "title": {
+    "fr": "Des thèmes et des couleurs variés",
+    "en": "Many themes, many colours"
+   },
+   "ambiance": {
+    "fr": "Blanc, vert et dorures",
+    "en": "White, green and gilding"
+   }
+  },
+  {
+   "id": "centre-bougies-03-2024-01",
+   "date": "2024-01",
+   "kind": "mariage",
+   "image": "/media/galerie/centre-bougies-03.jpg",
+   "place": null,
+   "guests": null,
+   "title": {
+    "fr": "Comme un rêve",
+    "en": "Like a dream"
+   },
+   "ambiance": {
+    "fr": "Bougies, bleu ciel et gypsophile",
+    "en": "Candles, sky blue and baby’s breath"
+   }
+  },
+  {
+   "id": "centre-cristal-01-2023-09",
+   "date": "2023-09",
+   "kind": "mariage",
+   "image": "/media/galerie/centre-cristal-01.jpg",
+   "place": null,
+   "guests": null,
+   "title": {
+    "fr": "Le sens du détail",
+    "en": "An eye for detail"
+   },
+   "ambiance": {
+    "fr": "Cristal, roses blanches et rose pâle",
+    "en": "Crystal, white roses and blush"
+   }
+  },
+  {
+   "id": "table-honneur-guirlandes-01-2023-08",
+   "date": "2023-08",
+   "kind": "mariage",
+   "image": "/media/table-honneur/table-honneur-guirlandes-01.jpg",
+   "place": "Domaine de Verchant",
+   "guests": null,
+   "title": {
+    "fr": "K & J",
+    "en": "K & J"
+   },
+   "ambiance": {
+    "fr": "Guirlandes lumineuses et tons pêche",
+    "en": "String lights and peach tones"
+   }
+  },
+  {
+   "id": "table-honneur-bleu-roi-01-2023-05",
+   "date": "2023-05",
+   "kind": "mariage",
+   "image": "/media/table-honneur/table-honneur-bleu-roi-01.jpg",
+   "place": null,
+   "guests": null,
+   "title": {
+    "fr": "Venitia & Quentin",
+    "en": "Venitia & Quentin"
+   },
+   "ambiance": {
+    "fr": "Bleu roi et blanc",
+    "en": "Royal blue and white"
+   }
+  }
+ ]
+}

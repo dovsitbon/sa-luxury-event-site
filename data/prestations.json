@@ -1,0 +1,85 @@
+{
+ "_note": "Prestations détaillées. priceFrom = prix « à partir de » en euros (null = à remplir, non affiché). showPrices = false : aucun prix n’apparaît tant qu’elle n’a pas validé ses tarifs. Textes à valider avec elle.",
+ "updated": "2026-11-09",
+ "showPrices": false,
+ "items": [
+  {
+   "id": "table-honneur",
+   "image": "/media/table-honneur/table-honneur-pierre-01.jpg",
+   "priceFrom": null,
+   "title": {
+    "fr": "Table d’honneur",
+    "en": "Top table"
+   },
+   "text": {
+    "fr": "Nappage, vaisselle, chandeliers et fleurs fraîches : la table où tous les regards se posent, composée autour de vos couleurs.",
+    "en": "Linen, tableware, candelabras and fresh flowers: the table every eye turns to, built around your colours."
+   }
+  },
+  {
+   "id": "coin-maries",
+   "image": "/media/coin-maries/trone-bordeaux-01.jpg",
+   "priceFrom": null,
+   "title": {
+    "fr": "Coin des mariés",
+    "en": "Couple’s corner"
+   },
+   "text": {
+    "fr": "Trône, salon ou estrade habillés de fleurs fraîches, pour vos entrées, vos photos et le reste de la soirée.",
+    "en": "A throne, lounge or stage dressed in fresh flowers, for your entrance, your photos and the rest of the night."
+   }
+  },
+  {
+   "id": "ceremonie",
+   "image": "/media/ceremonie/arche-ceremonie-01.jpg",
+   "priceFrom": null,
+   "title": {
+    "fr": "Arche et cérémonie",
+    "en": "Arch & ceremony"
+   },
+   "text": {
+    "fr": "Arche florale, allée, panneau d’accueil à vos initiales : un décor de cérémonie, en salle ou en plein air.",
+    "en": "Floral arch, aisle, welcome sign with your initials: a ceremony setting, indoors or outdoors."
+   }
+  },
+  {
+   "id": "centres-table",
+   "image": "/media/centres-table/centre-hortensias-01.jpg",
+   "priceFrom": null,
+   "title": {
+    "fr": "Centres de table",
+    "en": "Centrepieces"
+   },
+   "text": {
+    "fr": "Compositions hautes ou basses, cristal, bougies, menus et marque-places : l’art de la table, table par table.",
+    "en": "Tall or low arrangements, crystal, candles, menus and place cards: the art of the table, one table at a time."
+   }
+  },
+  {
+   "id": "bouquet",
+   "image": "/media/bouquets/bouquet-champetre-01.jpg",
+   "priceFrom": null,
+   "title": {
+    "fr": "Bouquet de mariée",
+    "en": "Bridal bouquet"
+   },
+   "text": {
+    "fr": "Créé sur mesure d’après votre inspiration, et apporté la veille, pendant l’installation : vous l’avez sans y penser le jour J.",
+    "en": "Made to match your inspiration and brought the day before, during set-up, so it’s one less thing to think about."
+   }
+  },
+  {
+   "id": "scenographie",
+   "image": "/media/galerie/salle-arches-02.jpg",
+   "priceFrom": null,
+   "title": {
+    "fr": "Scénographie complète",
+    "en": "Full venue styling"
+   },
+   "text": {
+    "fr": "Toute la salle pensée comme un seul décor, fleurs comprises, avec une seule équipe du premier rendez-vous au démontage.",
+    "en": "The whole room designed as one setting, flowers included, with a single team from the first meeting to take-down."
+   }
+  }
+ ]
+}

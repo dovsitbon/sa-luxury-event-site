@@ -1,0 +1,458 @@
+@import "tailwindcss";
+@import "./tw-inline.css";
+@source "../components";
+@source "./";
+@source "../lib";
+
+@theme {
+  /* Charte tirée de ses photos et de son logo : blanc nacré, champagne, or doux des assiettes perlées, vert sauge des feuillages,
+     rose poudré du fond de son logo (touche unique), noir doux pour le texte */
+  --color-ivory: #fcfaf6;
+  --color-pearl: #f6f1e9;
+  --color-champagne: #eadfcb;
+  /* Or doux décoratif (filets, tracés) */
+  --color-gold: #c7a25e;
+  /* Or pour le petit texte : 5,9:1 sur blanc nacré */
+  --color-gold-ink: #775a26;
+  --color-sage: #9aa58e;
+  --color-blush: #f7ebe8;
+  /* Noir doux : texte */
+  --color-ink: #2b2724;
+  /* Texte secondaire : 7:1 sur blanc nacré */
+  --color-muted: #5c544e;
+  --color-line: #e7ddce;
+
+  --font-body: var(--font-jost), "Helvetica Neue", Arial, sans-serif;
+  --font-caps: var(--font-jost), "Helvetica Neue", Arial, sans-serif;
+  --font-display: var(--font-cormorant), Georgia, serif;
+
+  --ease-soft: cubic-bezier(0.22, 0.61, 0.36, 1);
+}
+
+@layer base {
+  html {
+    -webkit-text-size-adjust: 100%;
+    text-rendering: optimizeLegibility;
+    color-scheme: light;
+    scroll-padding-top: 8rem;
+  }
+  body {
+    background: var(--color-ivory);
+    color: var(--color-ink);
+    font-family: var(--font-body);
+    font-weight: 300;
+    -webkit-font-smoothing: antialiased;
+  }
+  a,
+  button,
+  label,
+  select,
+  input,
+  summary {
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+  }
+  h1,
+  h2,
+  h3 {
+    text-wrap: balance;
+  }
+  p {
+    text-wrap: pretty;
+  }
+  ::selection {
+    background: var(--color-champagne);
+    color: var(--color-ink);
+  }
+  :focus-visible {
+    outline: 1px solid var(--color-gold-ink);
+    outline-offset: 3px;
+  }
+  [hidden] {
+    display: none !important;
+  }
+  input,
+  select,
+  textarea {
+    font: inherit;
+  }
+}
+
+@layer components {
+  .eyebrow {
+    font-family: var(--font-caps);
+    font-size: 0.6875rem;
+    font-weight: 400;
+    letter-spacing: 0.34em;
+    text-transform: uppercase;
+    color: var(--color-gold-ink);
+  }
+  
+  /* Grands titres fins : Cormorant Garamond 300 ; Frank Ruhl Libre 300 en hébreu */
+  .display {
+    font-family: var(--font-display);
+    font-weight: 300;
+    line-height: 1.02;
+    letter-spacing: -0.01em;
+  }
+  
+  .display em {
+    font-style: italic;
+  }
+  .script {
+    font-family: var(--font-script);
+    font-weight: 400;
+    letter-spacing: 0;
+    text-transform: none;
+  }
+  .num {
+    font-family: var(--font-cormorant), Georgia, serif;
+    font-weight: 300;
+    font-variant-numeric: lining-nums tabular-nums;
+    letter-spacing: 0.18em;
+  }
+  .nav-link {
+    font-family: var(--font-caps);
+    font-size: 0.6875rem;
+    font-weight: 400;
+    letter-spacing: 0.26em;
+    text-transform: uppercase;
+  }
+  
+  .lead {
+    font-size: 1.0625rem;
+    line-height: 1.9;
+    color: var(--color-muted);
+  }
+  .btn-line,
+  .btn-solid {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.75rem;
+    min-height: 3.25rem;
+    padding: 0.9rem 2.2rem;
+    font-family: var(--font-caps);
+    font-size: 0.6875rem;
+    font-weight: 400;
+    letter-spacing: 0.28em;
+    text-transform: uppercase;
+    border-radius: 0;
+    transition:
+      background-color 0.7s var(--ease-soft),
+      color 0.7s var(--ease-soft),
+      border-color 0.7s var(--ease-soft);
+  }
+  
+  .btn-line {
+    border: 1px solid currentColor;
+  }
+  .btn-line:hover {
+    background: var(--color-ink);
+    border-color: var(--color-ink);
+    color: var(--color-ivory);
+  }
+  .btn-line.on-dark:hover {
+    background: var(--color-ivory);
+    border-color: var(--color-ivory);
+    color: var(--color-ink);
+  }
+  .btn-solid {
+    background: var(--color-ink);
+    color: var(--color-ivory);
+    border: 1px solid var(--color-ink);
+  }
+  .btn-solid:hover {
+    background: var(--color-gold-ink);
+    border-color: var(--color-gold-ink);
+  }
+  .link-line {
+    background: linear-gradient(currentColor, currentColor) no-repeat 0 100% / 100% 1px;
+    padding-bottom: 0.3em;
+    transition: background-size 0.6s var(--ease-soft);
+  }
+  [dir="rtl"] .link-line {
+    background-position: 100% 100%;
+  }
+  .link-line:hover {
+    background-size: 0 1px;
+  }
+
+  .field {
+    width: 100%;
+    border: 0;
+    border-bottom: 1px solid var(--color-line);
+    background: transparent;
+    padding: 0.75rem 0;
+    font-size: 1rem;
+    color: var(--color-ink);
+    border-radius: 0;
+    transition: border-color 0.4s;
+  }
+  .field:focus {
+    outline: none;
+    border-color: var(--color-ink);
+  }
+  .field[aria-invalid="true"] {
+    border-color: var(--color-gold-ink);
+  }
+  .field::placeholder {
+    color: #9a8f84;
+  }
+  .label {
+    display: block;
+    font-family: var(--font-caps);
+    font-size: 0.6875rem;
+    font-weight: 400;
+    letter-spacing: 0.22em;
+    text-transform: uppercase;
+    color: var(--color-muted);
+  }
+  
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    border: 1px solid var(--color-line);
+    border-radius: 999px;
+    min-height: 2.75rem;
+    padding: 0.5rem 1.15rem;
+    font-size: 0.9375rem;
+    cursor: pointer;
+    transition:
+      border-color 0.3s,
+      background-color 0.3s,
+      color 0.3s;
+  }
+  .chip:hover {
+    border-color: var(--color-ink);
+  }
+  .chip:has(input:checked),
+  .chip[aria-pressed="true"] {
+    border-color: var(--color-ink);
+    background: var(--color-ink);
+    color: var(--color-ivory);
+  }
+  .chip:has(input:focus-visible) {
+    outline: 1px solid var(--color-gold-ink);
+    outline-offset: 3px;
+  }
+
+  /* Photos : zoom très doux au survol */
+  .shine {
+    position: relative;
+    overflow: hidden;
+  }
+  .shine img,
+  .shine video {
+    transition: transform 1.8s var(--ease-soft);
+  }
+  .shine:hover img,
+  .group:hover .shine img {
+    transform: scale(1.04);
+  }
+}
+
+/* Apparition au défilement (components/Reveal.tsx) */
+html.js .reveal:not(.in) {
+  opacity: 0;
+  transform: translateY(var(--reveal-y, 24px));
+}
+.reveal {
+  transition:
+    opacity 1.3s var(--ease-soft) var(--reveal-delay, 0s),
+    transform 1.3s var(--ease-soft) var(--reveal-delay, 0s);
+}
+.fade-in {
+  animation: fade-in 0.5s var(--ease-soft) both;
+}
+.fade-up {
+  animation: rise 0.7s var(--ease-soft) both;
+}
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+}
+.rise {
+  animation: rise 1.8s var(--ease-soft) both;
+}
+@keyframes rise {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+}
+.drift {
+  animation: drift 26s ease-in-out infinite alternate;
+}
+@keyframes drift {
+  from {
+    transform: scale(1.02);
+  }
+  to {
+    transform: scale(1.1);
+  }
+}
+.scroll-line {
+  animation: scroll-line 2.6s var(--ease-soft) infinite;
+  transform-origin: top;
+}
+@keyframes scroll-line {
+  0% {
+    transform: scaleY(0);
+  }
+  45% {
+    transform: scaleY(1);
+    transform-origin: top;
+  }
+  55% {
+    transform: scaleY(1);
+    transform-origin: bottom;
+  }
+  100% {
+    transform: scaleY(0);
+    transform-origin: bottom;
+  }
+}
+
+/* Lenis */
+html.lenis,
+html.lenis body {
+  height: auto;
+}
+.lenis.lenis-smooth {
+  scroll-behavior: auto !important;
+}
+.lenis.lenis-stopped {
+  overflow: hidden;
+}
+
+/* ——— Ouverture (1,5 s, une fois par session) : fond blanc nacré, une fine arche florale se dessine au trait doré,
+   « sA » puis « LUXURY EVENT » apparaissent, quelques étincelles au bout de la baguette, fondu sur le hero. ——— */
+.intro-curtain {
+  position: fixed;
+  inset: 0;
+  z-index: 100;
+  background: var(--color-ivory);
+  animation: intro-out 0.35s ease-out 1.15s forwards;
+}
+html.intro-seen .intro-curtain {
+  display: none;
+}
+@keyframes intro-out {
+  to {
+    opacity: 0;
+    visibility: hidden;
+  }
+}
+.intro-spark {
+  opacity: 0;
+  color: var(--color-gold);
+  animation: intro-twinkle 0.45s ease-out var(--d) forwards;
+}
+@keyframes intro-twinkle {
+  0% {
+    opacity: 0;
+    transform: scale(0.3) rotate(-30deg);
+  }
+  60% {
+    opacity: 1;
+  }
+  100% {
+    opacity: 0.85;
+    transform: none;
+  }
+}
+.intro-stroke {
+  stroke-dasharray: 1;
+  stroke-dashoffset: 1;
+  animation: intro-draw 0.7s cubic-bezier(0.55, 0, 0.3, 1) var(--d) forwards;
+}
+@keyframes intro-draw {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+.intro-fade {
+  opacity: 0;
+  animation: intro-fade 0.45s ease-out var(--d) forwards;
+}
+@keyframes intro-fade {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* Étincelle au survol des cartes (seul autre usage des étincelles sur le site) */
+.glint {
+  opacity: 0;
+  transform: scale(0.6) rotate(-20deg);
+  transition:
+    opacity 0.6s var(--ease-soft),
+    transform 0.9s var(--ease-soft);
+}
+.group:hover .glint,
+.group:focus-visible .glint {
+  opacity: 1;
+  transform: none;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  .intro-curtain {
+    display: none;
+  }
+  .scroll-line,
+  .drift,
+  .glint {
+    animation: none;
+    transition: none;
+  }
+  html.js .reveal:not(.in) {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+/* Puces sur fond sombre */
+.chip.on-dark {
+  border-color: rgb(252 250 246 / 0.3);
+}
+.chip.on-dark:hover {
+  border-color: var(--color-ivory);
+}
+.chip.on-dark[aria-pressed="true"] {
+  border-color: var(--color-ivory);
+  background: var(--color-ivory);
+  color: var(--color-ink);
+}
+
+/* Filet or champagne très fin */
+.hairline {
+  height: 1px;
+  background: var(--color-gold);
+  opacity: 0.6;
+}
+
+/* Champ date / heure : icône du calendrier discrète */
+.field::-webkit-calendar-picker-indicator {
+  opacity: 0.55;
+  cursor: pointer;
+}
+
+/* Bandeau d'infos refermé */
+html.infobar-closed .infobar {
+  display: none;
+}

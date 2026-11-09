@@ -1,0 +1,13 @@
+{
+  "_note": "Bandeau d'infos pratiques en haut du site (refermable). On affiche la première annonce dont active = true et dont until (AAAA-MM-JJ) n'est pas dépassé. Changer l'id à chaque nouvelle annonce pour qu'elle réapparaisse chez celles et ceux qui l'avaient fermée. Annonce tirée de sa story « Mon mariage 27 » (questionnaire de disponibilités pour 2027).",
+  "updated": "2026-11-09",
+  "items": [
+    {
+      "id": "dates-2027",
+      "active": true,
+      "until": "2027-12-31",
+      "fr": "Mariages 2027 : les dates sont ouvertes. Parlez-nous de votre projet pour vérifier la vôtre.",
+      "en": "2027 weddings: dates are now open. Tell us about your plans to check yours."
+    }
+  ]
+}

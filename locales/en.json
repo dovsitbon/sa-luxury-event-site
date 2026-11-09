@@ -1,0 +1,419 @@
+{
+  "meta": {
+    "title": "Wedding decoration and bespoke event styling in Montpellier, Nice and Perpignan | sA Luxury Event",
+    "description": "Luxury wedding decorator in the South of France: top table, couple’s corner, arches, centrepieces, bridal bouquet and full venue styling. Montpellier, Nice, Perpignan. Free quote on WhatsApp.",
+    "legalTitle": "Legal notice | sA Luxury Event",
+    "legalDescription": "Legal notice and privacy for the sA Luxury Event website, wedding decoration and bespoke event styling."
+  },
+  "nav": {
+    "skip": "Skip to content",
+    "home": "sA Luxury Event, home",
+    "menu": "Menu",
+    "close": "Close menu",
+    "language": "Language",
+    "weddings": "Weddings",
+    "services": "Services",
+    "work": "Our work",
+    "events": "Other events",
+    "about": "About",
+    "contact": "Contact",
+    "book": "Request a quote"
+  },
+  "infobar": {
+    "close": "Close announcement"
+  },
+  "intro": {
+    "skip": "Skip"
+  },
+  "hero": {
+    "eyebrow": "Wedding decoration · Bespoke event styling",
+    "title": "Luxury lives in every detail",
+    "lead": "Tables, fresh flowers, thrones and entire rooms, designed with you and set up by one team. Montpellier, Nice, Perpignan.",
+    "cta": "Request a quote",
+    "ctaWork": "See our work"
+  },
+  "proof": {
+    "since": "Weddings since {year}",
+    "followers": "{n} followers on Instagram",
+    "rating": "{rating}/5 on Mariages.net",
+    "weddings": "{n} weddings styled",
+    "free": "Free quote, reply on WhatsApp"
+  },
+  "cards": {
+    "eyebrow": "What we style",
+    "title": "A setting for every big day",
+    "items": [
+      {
+        "key": "wedding",
+        "title": "Weddings",
+        "text": "From the ceremony to the reception room",
+        "href": "#prestations"
+      },
+      {
+        "key": "baby",
+        "title": "Baby showers",
+        "text": "Photo corner, buffet table, teddy bears",
+        "href": "#evenements"
+      },
+      {
+        "key": "birthday",
+        "title": "Birthdays",
+        "text": "One theme, one table, one party",
+        "href": "#evenements"
+      },
+      {
+        "key": "private",
+        "title": "Private events",
+        "text": "Engagements, Valentine’s Day, galas",
+        "href": "#evenements"
+      }
+    ]
+  },
+  "services": {
+    "eyebrow": "Services",
+    "title": "One element, or the whole room",
+    "lead": "Pick a single element or leave the whole setting to us: fresh flowers included, no separate florist needed.",
+    "from": "From {price}",
+    "onQuote": "On quote",
+    "cta": "Request a quote"
+  },
+  "blocks": {
+    "items": [
+      {
+        "eyebrow": "Made to measure",
+        "title": "Styling that looks like you",
+        "text": "Your colours, your venue, your Pinterest boards: we design a complete setting, from the flowers to the tableware, so everything speaks the same language.",
+        "cta": "Request a quote",
+        "href": "#devis"
+      },
+      {
+        "eyebrow": "On the day",
+        "title": "You arrive, everything is ready",
+        "text": "Our team sets up the room, brings your bouquet the day before and comes back to take everything down. You keep the surprise, with nothing to carry or check.",
+        "cta": "How it works",
+        "href": "#methode"
+      },
+      {
+        "eyebrow": "And also",
+        "title": "Baby showers, birthdays, private parties",
+        "text": "The same care for other moments: a personalised photo corner, a themed table, a gala, an evening by the water.",
+        "cta": "See the events",
+        "href": "#evenements"
+      }
+    ]
+  },
+  "work": {
+    "eyebrow": "Our work",
+    "title": "Weddings we’ve styled, year after year",
+    "lead": "A selection of weddings shared on Instagram, with the venue when we know it.",
+    "filterLabel": "Filter by year",
+    "all": "All",
+    "guests": "{n} guests",
+    "engagement": "Engagement",
+    "more": "All our work on Instagram",
+    "open": "Enlarge photo",
+    "lightbox": {
+      "close": "Close",
+      "prev": "Previous photo",
+      "next": "Next photo",
+      "counter": "{n} / {total}"
+    }
+  },
+  "events": {
+    "eyebrow": "Other events",
+    "title": "Not only weddings",
+    "lead": "For a birth, a birthday or an evening for two, we approach the setting the same way: a theme, textures, a detail people remember.",
+    "items": [
+      {
+        "key": "baby",
+        "title": "Baby showers",
+        "text": "A photo corner in the colour and name of your choice, a “baby” buffet table to hire, teddy bears and balloons."
+      },
+      {
+        "key": "birthday",
+        "title": "Birthdays",
+        "text": "Dolce vita, jungle chic, a citrus brunch or a dinner on the Thau lagoon: a theme chosen together, down to the biscuits."
+      },
+      {
+        "key": "private",
+        "title": "Valentine’s Day and galas",
+        "text": "Red carpet, roses, an XXL photo box to hire: evenings people talk about, in a restaurant or a reception room."
+      },
+      {
+        "key": "engagement",
+        "title": "Engagements",
+        "text": "Chic, romantic styling on a terrace or indoors, to announce what comes next."
+      }
+    ],
+    "cta": "Request a quote"
+  },
+  "about": {
+    "eyebrow": "About",
+    "title": "One team, from the first message to take-down",
+    "paragraphs": [
+      "Since 2022, sA Luxury Event has been decorating weddings and parties around Montpellier, from Sète to the Thau lagoon, and as far as Nice and Perpignan.",
+      "Fresh flowers, fine tableware, thrones, arches and furniture all come in one service: a consistent look, one contact, and no extra florist to coordinate.",
+      "Her work ends when the doors open. The room is ready, and the bride discovers her setting with her guests."
+    ],
+    "quote": "“I almost never attend the weddings, even when my clients kindly invite me.”",
+    "quoteBy": "The founder of sA Luxury Event",
+    "cta": "Tell us about your wedding",
+    "photoAlt": "White calla lily bouquet tied with an “Always and forever” ribbon bearing the couple’s initials"
+  },
+  "process": {
+    "eyebrow": "How it works",
+    "title": "Five steps, no stress",
+    "steps": [
+      {
+        "title": "First conversation",
+        "text": "Write to us on WhatsApp or through the form: date, venue, number of guests, ideas."
+      },
+      {
+        "title": "Meeting and moodboard",
+        "text": "Together we build the mood: colours, flowers, textures, inspiration."
+      },
+      {
+        "title": "Quote",
+        "text": "A detailed quote, item by item. Your date is held once you book."
+      },
+      {
+        "title": "Set-up on the day",
+        "text": "The team sets up the room and brings the bouquet. Nothing for you to do."
+      },
+      {
+        "title": "Take-down",
+        "text": "We come back for everything after the party, at the time agreed with the venue."
+      }
+    ]
+  },
+  "reviews": {
+    "eyebrow": "Reviews",
+    "title": "What our brides say",
+    "translated": "Translated from French",
+    "weddingOn": "Wedding on {date}",
+    "anonymous": "A client",
+    "via": "via {source}",
+    "readMore": "Read more",
+    "readLess": "Show less"
+  },
+  "zone": {
+    "eyebrow": "Where we work",
+    "title": "Montpellier, Nice, Perpignan and around",
+    "lead": "Hérault, Gard, Pyrénées-Orientales, the Riviera: tell us where your venue is and we’ll confirm travel in the quote.",
+    "cities": [
+      {
+        "name": "Montpellier",
+        "text": "Montpellier, Sète, the Thau lagoon and the estates of the Hérault."
+      },
+      {
+        "name": "Nice",
+        "text": "Nice and the Riviera, from reception halls to private villas."
+      },
+      {
+        "name": "Perpignan",
+        "text": "Perpignan and the Pyrénées-Orientales, between sea and estates."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "FAQ",
+    "title": "Before you write",
+    "items": [
+      {
+        "q": "How far in advance should we book?",
+        "a": "As early as you can: Saturdays from May to September go quickly. Write to us as soon as you have your date and venue, even if nothing else is decided. 2027 dates are open."
+      },
+      {
+        "q": "Are set-up and take-down included?",
+        "a": "Yes, our team sets up and takes down. Timing is agreed with your venue and detailed in the quote."
+      },
+      {
+        "q": "Are decor items hired or bought?",
+        "a": "Furniture, tableware, thrones and decor are lent for the event. Floral arrangements and the bridal bouquet are made for you."
+      },
+      {
+        "q": "Do you travel beyond Montpellier, Nice and Perpignan?",
+        "a": "Yes, across the South and further depending on dates. Give the town of your venue in the form: any travel costs are shown in the quote."
+      },
+      {
+        "q": "Is a deposit required?",
+        "a": "A deposit secures your date. The amount and terms are shown on the quote."
+      },
+      {
+        "q": "Is there a planning meeting?",
+        "a": "Yes. After the first conversation we meet to build the moodboard: colours, flowers, textures and the room layout."
+      },
+      {
+        "q": "Do you also offer catering?",
+        "a": "Yes, a decoration and catering package is possible with our partners. Just mention it in your message."
+      },
+      {
+        "q": "Is the quote free?",
+        "a": "Yes. Fill in the form or message us on WhatsApp and we’ll come back to you with a proposal."
+      }
+    ]
+  },
+  "quote": {
+    "eyebrow": "Quote request",
+    "title": "Tell us about your event",
+    "lead": "A few details are enough. Your request opens in WhatsApp, already written: all you have to do is send it.",
+    "steps": [
+      "Your event",
+      "The setting",
+      "Your details"
+    ],
+    "next": "Continue",
+    "back": "Back",
+    "fields": {
+      "type": "Type of event",
+      "types": {
+        "mariage": "Wedding",
+        "baby": "Baby shower",
+        "anniversaire": "Birthday",
+        "autre": "Other"
+      },
+      "date": "Date",
+      "dateHint": "Approximate is fine",
+      "venue": "Venue",
+      "venuePlaceholder": "Name of the estate or hall…",
+      "city": "Town",
+      "cityPlaceholder": "Montpellier, Nice, Perpignan…",
+      "guests": "Number of guests",
+      "elements": "What you’d like",
+      "elementsOptions": {
+        "table-honneur": "Top table",
+        "coin-maries": "Couple’s corner",
+        "arche": "Arch & ceremony",
+        "centres-table": "Centrepieces",
+        "bouquet": "Bridal bouquet",
+        "scenographie": "Full venue styling"
+      },
+      "mood": "Mood or colours",
+      "moodPlaceholder": "White and gold, rustic, burgundy… or paste a Pinterest link",
+      "budget": "Budget (optional)",
+      "budgetPlaceholder": "A rough range is enough",
+      "name": "Full name",
+      "phone": "Phone",
+      "message": "Message",
+      "messagePlaceholder": "What matters to you, a question…",
+      "optional": "optional"
+    },
+    "errors": {
+      "type": "Choose the type of event.",
+      "date": "Give the date, even approximate.",
+      "city": "Give the town or venue.",
+      "name": "Give your name.",
+      "phone": "Give a valid phone number."
+    },
+    "taken": "This date is already booked for another set-up. Write to us anyway: depending on the venue, it may still be possible.",
+    "pinterest": "Pinterest link found, it will be added to the message.",
+    "submit": "Send on WhatsApp",
+    "sentTitle": "Your request is ready",
+    "sentText": "WhatsApp has opened with your message. If it didn’t, use the button below.",
+    "sentAgain": "Open WhatsApp",
+    "privacy": "Your details are only used to answer your request. Nothing is stored on this website.",
+    "orCall": "Prefer to call?",
+    "deposit": "Pay the deposit online",
+    "message": {
+      "title": "Quote request – sA Luxury Event",
+      "type": "Event",
+      "date": "Date",
+      "venue": "Venue",
+      "city": "Town",
+      "guests": "Guests",
+      "elements": "Wishes",
+      "mood": "Mood / colours",
+      "budget": "Budget",
+      "name": "Name",
+      "phone": "Phone",
+      "notes": "Message",
+      "closing": "Thank you, speak soon!"
+    }
+  },
+  "whatsapp": {
+    "hello": "Hello sA Luxury Event, I’d like some information about decorating my event.",
+    "float": "Message us on WhatsApp"
+  },
+  "footer": {
+    "tagline": "Wedding decoration and bespoke event styling in the South of France.",
+    "nav": "Navigation",
+    "zone": "Area",
+    "zoneText": "Montpellier, Nice, Perpignan and around",
+    "rights": "All rights reserved",
+    "photos": "Photos: work by sA Luxury Event",
+    "legal": "Legal notice"
+  },
+  "legal": {
+    "title": "Legal notice",
+    "sections": [
+      {
+        "h": "Publisher",
+        "p": "sA Luxury Event, wedding decoration and bespoke event styling. Phone: +33 6 59 86 86 74. Company name, address and SIRET number: to be completed."
+      },
+      {
+        "h": "Hosting",
+        "p": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, USA."
+      },
+      {
+        "h": "Personal data",
+        "p": "The quote form stores nothing on this website: it prepares a message that you send yourself on WhatsApp. The details you share are only used to answer your request. You can ask for them to be deleted at any time by WhatsApp or phone."
+      },
+      {
+        "h": "Cookies",
+        "p": "This website uses no advertising or analytics cookies. Only your language choice and the closing of the information bar are remembered in your browser."
+      },
+      {
+        "h": "Photos",
+        "p": "All photos show work by sA Luxury Event. Partner photographers are credited on Instagram. No reproduction without permission."
+      }
+    ],
+    "back": "Back to home"
+  },
+  "alt": {
+    "salle-arches": "Decorated reception room: lit white arches, crystal chandeliers and the couple’s stage",
+    "table-pivoines": "Round table with a peony and hydrangea centrepiece, gold beaded plates and crystal glasses",
+    "table-honneur-pierre": "Round top table in white linen against a stone wall, roses and mauve flowers",
+    "table-honneur-bleu-roi": "Long top table in royal blue and white, blue menus and white rose arrangements",
+    "table-honneur-guirlandes": "Long table under string lights, peach runner and candles",
+    "table-honneur-menu": "Ivory plate and a menu tied with ribbon, white roses and baby’s breath behind",
+    "trone-bordeaux": "White wedding throne dressed with a cascade of burgundy hydrangeas, under lit arches",
+    "estrade-roses": "Couple’s stage with white arches, a sofa and a garland of pink roses",
+    "salon-rose": "Dusty pink velvet sofa under a gold arch and a garland of roses",
+    "salon-orange": "White outdoor lounge surrounded by columns and orange flowers",
+    "estrade-bougies": "Outdoor stage with white arches, crystal candelabras, roses and baby’s breath",
+    "salon-arches": "Crystal candelabras and white roses in front of lit arches",
+    "arche-ceremonie": "Ceremony under a floral arch, in black and white",
+    "allee-ceremonie": "Outdoor ceremony aisle, white chairs, blush flowers and a magazine-cover photo booth",
+    "panneau-initiales": "Welcome sign with the couple’s initials, pampas and dried flowers",
+    "colonnes-orange": "White columns and orange flower arrangements for an outdoor ceremony",
+    "centre-hortensias": "Centrepiece: ceramic vase, green hydrangeas, white roses and amaranth",
+    "centre-roses": "Centrepiece of white and blush roses, baby’s breath and crystal glasses",
+    "centre-gypsophile": "Dome of ivory roses and baby’s breath in the middle of the table",
+    "centre-pastel": "Pastel arrangement on a candelabra, table number and crystal glasses",
+    "centre-pivoines": "Centrepiece of pink, burgundy and peach roses and hydrangeas, crystal glasses",
+    "centre-bougies": "Crystal candelabras, candles and white flowers in the middle of the table",
+    "centre-cristal": "Crystal candelabras, white roses and folded napkins on white linen",
+    "art-de-table": "Table setting: scalloped plates, gold beaded chargers, gold cutlery and a menu",
+    "centre-orange": "Table set with orange roses and gerberas, crystal glasses and a personalised menu",
+    "art-de-table-vert": "Ivory plate, green and gold menu, ivy on the table",
+    "bouquet-champetre": "Country-style bridal bouquet: roses, dahlias, daisies and mauve flowers tied in white",
+    "bouquet-arums": "White calla lily bouquet tied with an embroidered “Always and forever” ribbon",
+    "bouquet-blanc": "White bridal bouquet held against the veil",
+    "bouquet-roses": "Round bouquet of ivory roses and baby’s breath, white satin ribbon",
+    "fleurs-fraiches": "Pink, coral and mauve garden roses",
+    "baby-shower-coin-photo": "Baby shower photo corner: white arches, pearl balloons, the baby’s name and teddy bears",
+    "baby-shower-table": "Baby shower table in sky blue and gold, teddy bear and personalised biscuits",
+    "baby-shower-oursons": "Baby shower setting: cream arches, gold balloons and large teddy bears",
+    "anniversaire-dolce-vita": "“Dolce vita” birthday table: lemons, blue and yellow, blue glasses",
+    "anniversaire-jungle": "Outdoor jungle-chic birthday: panels, giraffe and greenery",
+    "anniversaire-etang": "Birthday table facing the Thau lagoon, white and green flowers",
+    "fete-piscine": "Party table by a swimming pool, blue tablecloth and roses",
+    "brunch-agrumes": "Citrus-themed brunch table, orange flowers and pastel plates",
+    "tapis-rouge": "Red-carpet staircase lit with candles and red roses",
+    "gala-table": "Gala table beneath a tall rose arrangement, in a moulded salon",
+    "saint-valentin-roses": "Red rose arrangement for a Valentine’s evening",
+    "noir-et-blanc": "Black and white reception: long tables, flowers and a glasshouse",
+    "terrasse-arches": "Engagement setting on a terrace: white arches, white roses and crystal",
+    "gateau-bleu-roi": "White tiered cake decorated with white and royal blue flowers"
+  }
+}

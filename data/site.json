@@ -1,0 +1,25 @@
+{
+  "_note": "Coordonnées et réglages. stats.weddings = nombre de mariages réalisés : À REMPLIR avec elle (null = non affiché, rien n'est inventé). followers relevés sur Instagram le 2026-11-09. founded = année de la première publication Instagram (2022), à confirmer.",
+  "name": "sA Luxury Event",
+  "url": "https://sa-luxury-event.vercel.app",
+  "whatsapp": "33659868674",
+  "phone": "+33659868674",
+  "phoneDisplay": "06 59 86 86 74",
+  "phoneIntl": "+33 6 59 86 86 74",
+  "instagram": "https://www.instagram.com/sa.luxury.event/",
+  "instagramHandle": "@sa.luxury.event",
+  "followers": { "count": 4077, "date": "2026-11-09" },
+  "posts": 135,
+  "founded": 2022,
+  "stats": { "weddings": null },
+  "mariagesNet": { "rating": 5, "reviews": 2, "url": null },
+  "areas": ["Montpellier", "Nice", "Perpignan"],
+  "areasConfirmed": false,
+  "founderName": null,
+  "payments": {
+    "_note": "Paiement d'acompte en ligne prévu (lib/payment.ts) mais désactivé. Pour l'activer : enabled = true, depositEUR = montant, et la variable STRIPE_SECRET_KEY sur Vercel.",
+    "enabled": false,
+    "provider": "stripe",
+    "depositEUR": null
+  }
+}

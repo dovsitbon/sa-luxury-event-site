@@ -1,0 +1,5 @@
+{
+  "_note": "Dates déjà réservées (AAAA-MM-JJ). Si la date choisie dans le formulaire en fait partie, un message propose quand même d'écrire (plusieurs installations le même jour peuvent être possibles). Liste vide = aucun message.",
+  "updated": "2026-11-09",
+  "taken": []
+}

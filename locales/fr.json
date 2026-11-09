@@ -1,0 +1,419 @@
+{
+  "meta": {
+    "title": "Décoration de mariage et scénographie sur mesure à Montpellier, Nice et Perpignan | sA Luxury Event",
+    "description": "Décoratrice de mariages haut de gamme dans le Sud : table d’honneur, coin des mariés, arches, centres de table, bouquet de mariée et scénographie complète. Montpellier, Nice, Perpignan. Devis gratuit sur WhatsApp.",
+    "legalTitle": "Mentions légales | sA Luxury Event",
+    "legalDescription": "Mentions légales et données personnelles du site sA Luxury Event, décoration de mariage et scénographie sur mesure."
+  },
+  "nav": {
+    "skip": "Aller au contenu",
+    "home": "sA Luxury Event, accueil",
+    "menu": "Menu",
+    "close": "Fermer le menu",
+    "language": "Langue",
+    "weddings": "Mariages",
+    "services": "Prestations",
+    "work": "Réalisations",
+    "events": "Autres événements",
+    "about": "À propos",
+    "contact": "Contact",
+    "book": "Demander un devis"
+  },
+  "infobar": {
+    "close": "Fermer l’annonce"
+  },
+  "intro": {
+    "skip": "Passer"
+  },
+  "hero": {
+    "eyebrow": "Décoration de mariage · Scénographie sur mesure",
+    "title": "Le luxe est dans chaque détail",
+    "lead": "Tables, fleurs fraîches, trônes et salles entières, imaginés avec vous et installés par une seule équipe. Montpellier, Nice, Perpignan.",
+    "cta": "Demander un devis",
+    "ctaWork": "Voir les réalisations"
+  },
+  "proof": {
+    "since": "Mariages depuis {year}",
+    "followers": "{n} abonnés sur Instagram",
+    "rating": "{rating}/5 sur Mariages.net",
+    "weddings": "{n} mariages réalisés",
+    "free": "Devis gratuit, réponse sur WhatsApp"
+  },
+  "cards": {
+    "eyebrow": "Ce que nous décorons",
+    "title": "Un décor pour chaque grand jour",
+    "items": [
+      {
+        "key": "wedding",
+        "title": "Mariage",
+        "text": "De la cérémonie à la salle de réception",
+        "href": "#prestations"
+      },
+      {
+        "key": "baby",
+        "title": "Baby shower",
+        "text": "Coin photo, table de buffet, oursons",
+        "href": "#evenements"
+      },
+      {
+        "key": "birthday",
+        "title": "Anniversaire",
+        "text": "Un thème, une table, une fête",
+        "href": "#evenements"
+      },
+      {
+        "key": "private",
+        "title": "Événement privé",
+        "text": "Fiançailles, Saint-Valentin, galas",
+        "href": "#evenements"
+      }
+    ]
+  },
+  "services": {
+    "eyebrow": "Prestations",
+    "title": "Chaque élément, ou toute la salle",
+    "lead": "Choisissez un élément ou confiez-nous l’ensemble : fleurs fraîches comprises, sans fleuriste à part.",
+    "from": "À partir de {price}",
+    "onQuote": "Sur devis",
+    "cta": "Demander un devis"
+  },
+  "blocks": {
+    "items": [
+      {
+        "eyebrow": "Sur mesure",
+        "title": "Une scénographie qui vous ressemble",
+        "text": "Vos couleurs, votre salle, vos inspirations Pinterest : nous composons un décor complet, des fleurs à la vaisselle, pour que tout parle la même langue.",
+        "cta": "Demander un devis",
+        "href": "#devis"
+      },
+      {
+        "eyebrow": "Le jour J",
+        "title": "Vous arrivez, tout est prêt",
+        "text": "L’équipe installe la salle, apporte le bouquet la veille et revient démonter. Vous gardez la surprise de la découverte, sans rien porter ni rien vérifier.",
+        "cta": "Comment ça marche",
+        "href": "#methode"
+      },
+      {
+        "eyebrow": "Et aussi",
+        "title": "Baby showers, anniversaires, fêtes privées",
+        "text": "Le même soin pour les autres moments : un coin photo personnalisé, une table à thème, un gala, une soirée au bord de l’eau.",
+        "cta": "Voir les événements",
+        "href": "#evenements"
+      }
+    ]
+  },
+  "work": {
+    "eyebrow": "Réalisations",
+    "title": "Mariages décorés, année après année",
+    "lead": "Une sélection de mariages publiés sur Instagram, avec le lieu quand il est connu.",
+    "filterLabel": "Filtrer par année",
+    "all": "Toutes",
+    "guests": "{n} invités",
+    "engagement": "Fiançailles",
+    "more": "Toutes les réalisations sur Instagram",
+    "open": "Agrandir la photo",
+    "lightbox": {
+      "close": "Fermer",
+      "prev": "Photo précédente",
+      "next": "Photo suivante",
+      "counter": "{n} / {total}"
+    }
+  },
+  "events": {
+    "eyebrow": "Autres événements",
+    "title": "Pas seulement des mariages",
+    "lead": "Pour une naissance, un anniversaire ou une soirée à deux, le décor se pense de la même façon : un thème, des matières, un détail qu’on retient.",
+    "items": [
+      {
+        "key": "baby",
+        "title": "Baby shower",
+        "text": "Coin photo à la couleur et au prénom de votre choix, table de buffet « baby » en location, oursons et ballons."
+      },
+      {
+        "key": "birthday",
+        "title": "Anniversaires",
+        "text": "Dolce vita, jungle chic, brunch aux agrumes ou dîner sur l’étang de Thau : un thème choisi ensemble, jusqu’aux sablés."
+      },
+      {
+        "key": "private",
+        "title": "Saint-Valentin et galas",
+        "text": "Tapis rouge, roses, boîte XXL en location : des soirées qui marquent, en restaurant comme en salle."
+      },
+      {
+        "key": "engagement",
+        "title": "Fiançailles",
+        "text": "Une décoration chic et romantique, en terrasse ou en salle, pour annoncer la suite."
+      }
+    ],
+    "cta": "Demander un devis"
+  },
+  "about": {
+    "eyebrow": "À propos",
+    "title": "Une seule équipe, du premier message au démontage",
+    "paragraphs": [
+      "Depuis 2022, sA Luxury Event décore des mariages et des fêtes autour de Montpellier, de Sète à l’étang de Thau, et jusqu’à Nice et Perpignan.",
+      "Fleurs fraîches, vaisselle haut de gamme, trônes, arches et mobilier sont réunis dans une seule prestation : un décor cohérent, un seul interlocuteur, et pas de fleuriste à coordonner en plus.",
+      "Son travail s’arrête quand les portes s’ouvrent. La salle est prête, la mariée découvre son décor avec ses invités."
+    ],
+    "quote": "« Je n’assiste presque jamais aux mariages, même lorsque mes clientes m’y invitent gentiment. »",
+    "quoteBy": "La fondatrice de sA Luxury Event",
+    "cta": "Parler de votre mariage",
+    "photoAlt": "Bouquet d’arums blancs noué d’un ruban « Always and forever » aux initiales des mariés"
+  },
+  "process": {
+    "eyebrow": "Comment ça marche",
+    "title": "Cinq étapes, sans stress",
+    "steps": [
+      {
+        "title": "Premier échange",
+        "text": "Vous nous écrivez sur WhatsApp ou via le formulaire : date, lieu, nombre d’invités, envies."
+      },
+      {
+        "title": "Rendez-vous et moodboard",
+        "text": "On construit ensemble l’ambiance : couleurs, fleurs, matières, inspirations."
+      },
+      {
+        "title": "Devis",
+        "text": "Un devis détaillé, élément par élément. Votre date est bloquée à la réservation."
+      },
+      {
+        "title": "Installation le jour J",
+        "text": "L’équipe installe la salle et apporte le bouquet. Vous n’avez rien à faire."
+      },
+      {
+        "title": "Démontage",
+        "text": "Nous revenons tout récupérer après la fête, selon l’horaire convenu avec la salle."
+      }
+    ]
+  },
+  "reviews": {
+    "eyebrow": "Avis",
+    "title": "Ce que disent les mariées",
+    "translated": "Traduit du français",
+    "weddingOn": "Mariage du {date}",
+    "anonymous": "Une cliente",
+    "via": "via {source}",
+    "readMore": "Lire la suite",
+    "readLess": "Réduire"
+  },
+  "zone": {
+    "eyebrow": "Zone d’intervention",
+    "title": "Montpellier, Nice, Perpignan et alentours",
+    "lead": "Hérault, Gard, Pyrénées-Orientales, Côte d’Azur : dites-nous où se trouve votre salle, nous vous confirmons le déplacement dans le devis.",
+    "cities": [
+      {
+        "name": "Montpellier",
+        "text": "Montpellier, Sète, l’étang de Thau et les domaines de l’Hérault."
+      },
+      {
+        "name": "Nice",
+        "text": "Nice et la Côte d’Azur, de la salle de réception à la villa."
+      },
+      {
+        "name": "Perpignan",
+        "text": "Perpignan et les Pyrénées-Orientales, entre mer et domaines."
+      }
+    ]
+  },
+  "faq": {
+    "eyebrow": "Questions fréquentes",
+    "title": "Avant de nous écrire",
+    "items": [
+      {
+        "q": "Combien de temps à l’avance faut-il réserver ?",
+        "a": "Le plus tôt possible : les samedis de mai à septembre partent vite. Écrivez-nous dès que vous avez votre date et votre lieu, même si tout n’est pas encore décidé. Les dates 2027 sont ouvertes."
+      },
+      {
+        "q": "L’installation et le démontage sont-ils compris ?",
+        "a": "Oui, c’est notre équipe qui installe et qui démonte. L’horaire se cale avec votre salle, et le détail figure dans le devis."
+      },
+      {
+        "q": "Les éléments de décor sont-ils loués ou achetés ?",
+        "a": "Le mobilier, la vaisselle, les trônes et les décors sont prêtés le temps de l’événement. Les compositions florales et le bouquet de mariée sont créés pour vous."
+      },
+      {
+        "q": "Vous déplacez-vous en dehors de Montpellier, Nice et Perpignan ?",
+        "a": "Oui, dans le Sud et au-delà selon les dates. Indiquez la ville de votre salle dans le formulaire : les frais de déplacement éventuels sont précisés dans le devis."
+      },
+      {
+        "q": "Faut-il verser un acompte ?",
+        "a": "Un acompte confirme la réservation de votre date. Son montant et les conditions sont indiqués sur le devis."
+      },
+      {
+        "q": "Y a-t-il un rendez-vous de préparation ?",
+        "a": "Oui. Après le premier échange, on se retrouve pour construire le moodboard : couleurs, fleurs, matières, et le plan de la salle."
+      },
+      {
+        "q": "Proposez-vous aussi le traiteur ?",
+        "a": "Oui, un pack décoration et traiteur est possible avec nos partenaires. Précisez-le dans votre message."
+      },
+      {
+        "q": "Le devis est-il gratuit ?",
+        "a": "Oui. Remplissez le formulaire ou écrivez-nous sur WhatsApp, nous revenons vers vous avec une proposition."
+      }
+    ]
+  },
+  "quote": {
+    "eyebrow": "Demande de devis",
+    "title": "Parlez-nous de votre événement",
+    "lead": "Quelques informations suffisent. Votre demande s’ouvre dans WhatsApp, déjà rédigée : il ne reste qu’à l’envoyer.",
+    "steps": [
+      "Votre événement",
+      "Le décor",
+      "Vos coordonnées"
+    ],
+    "next": "Continuer",
+    "back": "Retour",
+    "fields": {
+      "type": "Type d’événement",
+      "types": {
+        "mariage": "Mariage",
+        "baby": "Baby shower",
+        "anniversaire": "Anniversaire",
+        "autre": "Autre"
+      },
+      "date": "Date",
+      "dateHint": "Approximative si besoin",
+      "venue": "Lieu ou salle",
+      "venuePlaceholder": "Nom du domaine, de la salle…",
+      "city": "Ville",
+      "cityPlaceholder": "Montpellier, Nice, Perpignan…",
+      "guests": "Nombre d’invités",
+      "elements": "Éléments souhaités",
+      "elementsOptions": {
+        "table-honneur": "Table d’honneur",
+        "coin-maries": "Coin des mariés",
+        "arche": "Arche et cérémonie",
+        "centres-table": "Centres de table",
+        "bouquet": "Bouquet de mariée",
+        "scenographie": "Scénographie complète"
+      },
+      "mood": "Ambiance ou couleurs",
+      "moodPlaceholder": "Blanc et or, champêtre, bordeaux… ou collez un lien Pinterest",
+      "budget": "Budget (facultatif)",
+      "budgetPlaceholder": "Une fourchette suffit",
+      "name": "Nom et prénom",
+      "phone": "Téléphone",
+      "message": "Message",
+      "messagePlaceholder": "Ce qui compte pour vous, une question…",
+      "optional": "facultatif"
+    },
+    "errors": {
+      "type": "Choisissez le type d’événement.",
+      "date": "Indiquez la date, même approximative.",
+      "city": "Indiquez la ville ou le lieu.",
+      "name": "Indiquez votre nom.",
+      "phone": "Indiquez un numéro de téléphone valide."
+    },
+    "taken": "Cette date est déjà réservée pour une autre installation. Écrivez-nous quand même : selon le lieu, c’est parfois possible.",
+    "pinterest": "Lien Pinterest détecté, il sera joint au message.",
+    "submit": "Envoyer sur WhatsApp",
+    "sentTitle": "Votre demande est prête",
+    "sentText": "WhatsApp s’est ouvert avec votre message. S’il ne s’est pas ouvert, utilisez le bouton ci-dessous.",
+    "sentAgain": "Ouvrir WhatsApp",
+    "privacy": "Vos informations servent uniquement à répondre à votre demande. Rien n’est enregistré sur ce site.",
+    "orCall": "Vous préférez appeler ?",
+    "deposit": "Payer l’acompte en ligne",
+    "message": {
+      "title": "Demande de devis – sA Luxury Event",
+      "type": "Événement",
+      "date": "Date",
+      "venue": "Lieu / salle",
+      "city": "Ville",
+      "guests": "Invités",
+      "elements": "Éléments souhaités",
+      "mood": "Ambiance / couleurs",
+      "budget": "Budget",
+      "name": "Nom",
+      "phone": "Téléphone",
+      "notes": "Message",
+      "closing": "Merci, à très vite !"
+    }
+  },
+  "whatsapp": {
+    "hello": "Bonjour sA Luxury Event, je souhaite des informations pour la décoration de mon événement.",
+    "float": "Écrire sur WhatsApp"
+  },
+  "footer": {
+    "tagline": "Décoration de mariage et scénographie sur mesure dans le Sud de la France.",
+    "nav": "Navigation",
+    "zone": "Zone",
+    "zoneText": "Montpellier, Nice, Perpignan et alentours",
+    "rights": "Tous droits réservés",
+    "photos": "Photos : réalisations sA Luxury Event",
+    "legal": "Mentions légales"
+  },
+  "legal": {
+    "title": "Mentions légales",
+    "sections": [
+      {
+        "h": "Éditeur du site",
+        "p": "sA Luxury Event, décoration de mariage et scénographie sur mesure. Téléphone : 06 59 86 86 74. Raison sociale, adresse et numéro SIRET : à compléter."
+      },
+      {
+        "h": "Hébergement",
+        "p": "Vercel Inc., 440 N Barranca Ave #4133, Covina, CA 91723, États-Unis."
+      },
+      {
+        "h": "Données personnelles",
+        "p": "Le formulaire de devis ne stocke aucune donnée sur ce site : il prépare un message que vous envoyez vous-même sur WhatsApp. Les informations transmises servent uniquement à répondre à votre demande. Vous pouvez demander leur suppression à tout moment par WhatsApp ou par téléphone."
+      },
+      {
+        "h": "Cookies",
+        "p": "Le site n’utilise aucun cookie publicitaire ni de mesure d’audience. Seuls le choix de la langue et la fermeture du bandeau d’informations sont mémorisés dans votre navigateur."
+      },
+      {
+        "h": "Photos",
+        "p": "Toutes les photos sont des réalisations de sA Luxury Event. Les crédits des photographes partenaires figurent sur Instagram. Toute reproduction est interdite sans autorisation."
+      }
+    ],
+    "back": "Retour à l’accueil"
+  },
+  "alt": {
+    "salle-arches": "Salle de réception décorée : arches blanches éclairées, lustres de cristal et estrade des mariés",
+    "table-pivoines": "Table ronde avec centre de pivoines et d’hortensias, assiettes à bord perlé doré et verres en cristal",
+    "table-honneur-pierre": "Table d’honneur ronde nappée de blanc devant un mur de pierre, bouquet de roses et de fleurs mauves",
+    "table-honneur-bleu-roi": "Longue table d’honneur en bleu roi et blanc, menus bleus et compositions de roses blanches",
+    "table-honneur-guirlandes": "Longue table sous des guirlandes lumineuses, chemin de table pêche et bougies",
+    "table-honneur-menu": "Assiette ivoire et menu noué d’un ruban, roses blanches et gypsophile en fond",
+    "trone-bordeaux": "Trône des mariés blanc habillé d’une cascade d’hortensias bordeaux, sous des arches éclairées",
+    "estrade-roses": "Estrade des mariés aux arches blanches, banquette et guirlande de roses roses",
+    "salon-rose": "Banquette en velours rose poudré sous une arche dorée et une guirlande de roses",
+    "salon-orange": "Salon blanc en plein air entouré de colonnes et de fleurs orange",
+    "estrade-bougies": "Estrade extérieure aux arches blanches, chandeliers de cristal, roses et gypsophile",
+    "salon-arches": "Chandeliers de cristal et roses blanches devant des arches éclairées",
+    "arche-ceremonie": "Cérémonie sous une arche fleurie, en noir et blanc",
+    "allee-ceremonie": "Allée de cérémonie en plein air, chaises blanches, fleurs rose pâle et panneau façon couverture de magazine",
+    "panneau-initiales": "Panneau d’accueil aux initiales des mariés, pampas et fleurs séchées",
+    "colonnes-orange": "Colonnes blanches et bouquets de fleurs orange pour une cérémonie en plein air",
+    "centre-hortensias": "Centre de table : vase en céramique, hortensias verts, roses blanches et amarante",
+    "centre-roses": "Centre de table de roses blanches et rose pâle, gypsophile et verres en cristal",
+    "centre-gypsophile": "Dôme de roses ivoire et de gypsophile au centre de la table",
+    "centre-pastel": "Composition pastel sur chandelier, numéro de table et verres en cristal",
+    "centre-pivoines": "Centre de table de roses et d’hortensias roses, bordeaux et pêche, verres en cristal",
+    "centre-bougies": "Chandeliers de cristal, bougies et fleurs blanches au centre de la table",
+    "centre-cristal": "Chandeliers en cristal, roses blanches et serviettes nouées sur nappe blanche",
+    "art-de-table": "Art de la table : assiettes festonnées, bord perlé doré, couverts dorés et menu",
+    "centre-orange": "Table dressée de roses et de gerberas orange, verres en cristal et menu personnalisé",
+    "art-de-table-vert": "Assiette ivoire, menu vert et doré, lierre sur la table",
+    "bouquet-champetre": "Bouquet de mariée champêtre : roses, dahlias, marguerites et fleurs mauves, noué de blanc",
+    "bouquet-arums": "Bouquet d’arums blancs noué d’un ruban brodé « Always and forever »",
+    "bouquet-blanc": "Bouquet de mariée blanc tenu contre le voile",
+    "bouquet-roses": "Bouquet rond de roses ivoire et de gypsophile, ruban de satin blanc",
+    "fleurs-fraiches": "Roses de jardin roses, corail et mauves",
+    "baby-shower-coin-photo": "Coin photo de baby shower : arches blanches, ballons nacrés, prénom du bébé et oursons",
+    "baby-shower-table": "Table de baby shower bleu ciel et or, ourson et biscuits personnalisés",
+    "baby-shower-oursons": "Décor de baby shower : arches crème, ballons dorés et grands oursons",
+    "anniversaire-dolce-vita": "Table d’anniversaire « dolce vita » : citrons, bleu et jaune, verres bleus",
+    "anniversaire-jungle": "Anniversaire thème jungle chic en plein air : panneaux, girafe et verdure",
+    "anniversaire-etang": "Table d’anniversaire face à l’étang de Thau, fleurs blanches et vertes",
+    "fete-piscine": "Table de fête au bord d’une piscine, nappe bleue et roses",
+    "brunch-agrumes": "Table de brunch au thème agrumes, fleurs orange et assiettes pastel",
+    "tapis-rouge": "Escalier au tapis rouge éclairé de bougies et de roses rouges",
+    "gala-table": "Table de gala sous un grand bouquet de roses, salon à moulures",
+    "saint-valentin-roses": "Bouquet de roses rouges pour une soirée de Saint-Valentin",
+    "noir-et-blanc": "Réception en noir et blanc : longues tables, fleurs et verrière",
+    "terrasse-arches": "Décor de fiançailles en terrasse : arches blanches, roses blanches et cristal",
+    "gateau-bleu-roi": "Pièce montée blanche ornée de fleurs blanches et bleu roi"
+  }
+}
